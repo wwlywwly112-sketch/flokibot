@@ -26,3 +26,4 @@ URL: https://adultgirlmail[.]com/mail/gate[.]php
 ```
 pip install pefile rc4
 ```
+
